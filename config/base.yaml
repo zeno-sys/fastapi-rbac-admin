@@ -1,0 +1,8 @@
+project:
+  name: Fast-RBAC—Admin
+  version: 1.0.0
+  description: 无
+api:
+  v1_str: /api/v1
+frontend:
+  host: http://localhost:3000
